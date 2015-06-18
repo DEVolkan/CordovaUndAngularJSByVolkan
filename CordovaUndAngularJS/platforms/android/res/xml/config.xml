@@ -26,4 +26,8 @@
     <preference name="windows-target-version" value="8.1" />
     <preference name="windows-phone-target-version" value="8.1" />
     <vs:plugin name="io.litehelpers.cordova.sqlite" version="0.7.10-dev" />
+    <preference name="KeepRunning" value="False" />
+    <preference name="ShowTitle" value="True" />
+    <preference name="InAppBrowserStorageEnabled" value="False" />
+    <preference name="SuppressesIncrementalRendering" value="True" />
 </widget>
