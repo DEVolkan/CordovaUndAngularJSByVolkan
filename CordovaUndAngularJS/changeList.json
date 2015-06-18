@@ -244,9 +244,12 @@
   "deletedPluginsIos": [],
   "changedFiles": [
     "plugins\\android.json",
-    "www\\scripts\\run.js"
+    "config.xml",
+    "taco.json"
   ],
   "deletedFiles": [],
-  "addedPlugins": [],
+  "addedPlugins": [
+    "io.litehelpers.cordova.sqlite@0.7.10-dev"
+  ],
   "deletedPlugins": []
 }
