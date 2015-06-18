@@ -1,0 +1,1 @@
+C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\CordovaApp.Windows.jsproj;neutral
