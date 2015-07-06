@@ -76,4 +76,7 @@
     <ItemGroup>
         <ProjectReference Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\plugins\io.litehelpers.cordova.sqlite\src\windows\SQLite3-WinRT\SQLite3\SQLite3.Windows\SQLite3.Windows.vcxproj" />
     </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\plugins\io.litehelpers.cordova.sqlite\src\windows\SQLite3-WinRT\SQLite3\SQLite3.Windows\SQLite3.Windows.vcxproj" />
+    </ItemGroup>
 </Project>

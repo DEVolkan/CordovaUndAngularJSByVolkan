@@ -11,12 +11,20 @@
                         // Verarbeiten der Cordova-Pause- und -Fortsetzenereignisse
                         document.addEventListener('pause', onPause.bind(this), false);
                         document.addEventListener('resume', onResume.bind(this), false);
+                        
+                        var db = $cordovaSQLite.openDB({ name: "my.db" });
 
-                        console.log("$cordovaSQLite");
-                        console.log($cordovaSQLite);
-                        db = $cordovaSQLite.openDB("my.db");
-                        $cordovaSQLite.execute(db, "CREATE TABLE IF NOT EXISTS people (id integer primary key, firstname text, lastname text)");
+                        // for opening a background db:
+                        var db = $cordovaSQLite.openDB({ name: "my.db", bgType: 1 });
 
+                        $scope.execute = function () {
+                            var query = "INSERT INTO test_table (data, data_num) VALUES (?,?)";
+                            $cordovaSQLite.execute(db, query, ["test", 100]).then(function (res) {
+                                console.log("insertId: " + res.insertId);
+                            }, function (err) {
+                                console.error(err);
+                            });
+                        };
 
                         // TODO: Cordova wurde geladen. F�hren Sie hier eine Initialisierung aus, die Cordova erfordert.
                     };

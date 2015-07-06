@@ -7,7 +7,7 @@
 
     Weitere Informationen zu Paketmanifestdateien finden Sie unter http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6" Publisher="CN=Apache Cordova Temp Cert" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6" Publisher="CN=Apache Cordova Team" Version="1.0.0.0" ProcessorArchitecture="neutral" />
   <Properties>
     <DisplayName>CordovaUndAngularJS</DisplayName>
     <PublisherDisplayName>Apache Cordova Team</PublisherDisplayName>

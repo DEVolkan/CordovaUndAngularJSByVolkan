@@ -8,20 +8,27 @@
     <title>CordovaUndAngularByVolkan</title>
 </head>
     <body>
+        <!--forwarding to the homeController and homeIndex. Look in the routes.js-->
         <div ng-view class="container">
 
         </div>
         <!--required-->
-        <script src="cordova.js"></script>
         <script src="scripts/libs/angular1-3-15.js"></script>
         <script src="scripts/libs/angular-route.js"></script>
         <script src="scripts/libs/ui-bootstrap-tpls-0.13.0.js"></script>
+        <script src="scripts/ng-cordova.js"></script>
+        
+        <script src="cordova.js"></script>
 
         <script src="scripts/app.js"></script>
         <script src="scripts/routes.js"></script>
 
         <!--optional-->
         <script src="scripts/platformOverrides.js"></script>
+        <!--linked with homeController.js and run.js-->
+        <script src="scripts/factory.js"></script>
+        <script src="scripts/httpProvide.js"></script>
+        <script src="scripts/run.js"></script>
 
         <!--controllers-->
         <script src="module/home/homeController.js"></script>
@@ -29,6 +36,6 @@
         <!--directives-->
         <!--...-->
         <!--cordova-->
-        <script src="scripts/cordovaController.js"></script>
+        <!--<script src="scripts/cordovaController.js"></script>-->
     </body>
 </html>
