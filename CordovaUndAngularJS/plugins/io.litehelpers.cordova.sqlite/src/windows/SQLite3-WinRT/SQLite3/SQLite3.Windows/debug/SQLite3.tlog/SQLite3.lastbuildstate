@@ -1,2 +1,0 @@
-#TargetFrameworkVersion=:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
-debug|Win32|C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\plugins\io.litehelpers.cordova.sqlite\src\windows\SQLite3-WinRT\SQLite3\SQLite3.Windows\|
