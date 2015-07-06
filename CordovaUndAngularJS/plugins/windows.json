@@ -6,10 +6,6 @@
     "config_munge": {
         "files": {}
     },
-    "installed_plugins": {
-        "io.litehelpers.cordova.sqlite": {
-            "PACKAGE_NAME": "CordovaUndAngularJS"
-        }
-    },
+    "installed_plugins": {},
     "dependent_plugins": {}
 }

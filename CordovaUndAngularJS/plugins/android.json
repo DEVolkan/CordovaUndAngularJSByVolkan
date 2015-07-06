@@ -7,20 +7,11 @@
         "files": {
             "res/xml/config.xml": {
                 "parents": {
-                    "/*": [
-                        {
-                            "xml": "<feature name=\"SQLitePlugin\"><param name=\"android-package\" value=\"io.liteglue.SQLitePlugin\" /></feature>",
-                            "count": 1
-                        }
-                    ]
+                    "/*": []
                 }
             }
         }
     },
-    "installed_plugins": {
-        "io.litehelpers.cordova.sqlite": {
-            "PACKAGE_NAME": "io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6"
-        }
-    },
+    "installed_plugins": {},
     "dependent_plugins": {}
 }

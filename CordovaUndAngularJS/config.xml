@@ -90,9 +90,8 @@
   <platform name="wp8">
     <splash src="res/screens/wp8/SplashScreenImage.jpg" width="480" height="800" />
   </platform>
-  <vs:plugin name="io.litehelpers.cordova.sqlite" version="0.7.10-dev" />
-  <preference name="KeepRunning" value="False" />
-  <preference name="ShowTitle" value="True" />
-  <preference name="InAppBrowserStorageEnabled" value="False" />
-  <preference name="SuppressesIncrementalRendering" value="True" />
+  <preference name="KeepRunning" value="True" />
+  <preference name="ShowTitle" value="False" />
+  <preference name="InAppBrowserStorageEnabled" value="True" />
+  <preference name="SuppressesIncrementalRendering" value="False" />
 </widget>
