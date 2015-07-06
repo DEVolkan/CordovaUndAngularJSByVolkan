@@ -2,9 +2,14 @@
     angular.module("app")
             .controller('homeController', homeController);
 
-    homeController.$inject = ['$scope'];
+    homeController.$inject = ['$scope', 'service'];
 
-    function homeController($scope) {
+    function homeController($scope, service) {
+        ////services(expanded angularJs)
+        $scope.testIntegers = service.getTestIntegers;
+        //console.log($scope.testIntegers);
+
         $scope.test = "HelloWorld";
     }
+
 })(angular);

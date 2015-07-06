@@ -7,181 +7,201 @@
     <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\bld\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>152DC6D592F88898F1FBAF97CA09E6D97D53BCCC67C3B4DC588BD9C138E057D9</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6_1.0.0.0_neutral__54dbk1tt7zbhy</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6_54dbk1tt7zbhy!io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6</RegisteredUserModeAppID>
+    <IntermediateOutputPath>C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3274D97399F06AC23679EEBD0AAAC0265023F03E40D2F45EEC9D0AB2B67986F2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6_1.0.0.0_neutral__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6_h35559jr9hy9m!io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6</RegisteredUserModeAppID>
     <RegisteredPackageID>io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Apache Cordova Temp Cert</RegisteredPackagePublisher>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\debug\anycpu\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:43.995</Modified>
+      <Modified>2015-06-26T12:22:55.326</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\SplashScreen.scale-100.png">
       <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.902</Modified>
+      <Modified>2015-06-26T12:22:53.724</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square150x150Logo.scale-100.png">
       <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.882</Modified>
+      <Modified>2015-06-26T12:22:53.701</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square30x30Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square30x30Logo.scale-100.png">
       <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.886</Modified>
+      <Modified>2015-06-26T12:22:53.705</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square310x310Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square310x310Logo.scale-100.png">
       <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-11T14:38:33.336</Modified>
+      <Modified>2015-06-18T13:46:03.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square70x70Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <Modified>2015-06-18T13:46:03.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square70x70Logo.scale-100.png">
       <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.890</Modified>
+      <Modified>2015-06-26T12:22:53.709</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <Modified>2015-06-18T13:46:03.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\StoreLogo.scale-100.png">
       <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.893</Modified>
+      <Modified>2015-06-26T12:22:53.713</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\images\Wide310x150Logo.scale-100.png">
       <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-06-12T04:32:42.898</Modified>
+      <Modified>2015-06-26T12:22:53.720</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\admin.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\admin.css">
       <PackagePath>www\content\admin.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.464</Modified>
+      <Modified>2015-06-26T12:22:53.494</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.css">
       <PackagePath>www\content\bootstrap\bootstrap-theme.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.575</Modified>
+      <Modified>2015-06-26T12:22:53.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.min.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.min.css">
       <PackagePath>www\content\bootstrap\bootstrap-theme.min.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.576</Modified>
+      <Modified>2015-06-26T12:22:53.752</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.css">
       <PackagePath>www\content\bootstrap\bootstrap.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.579</Modified>
+      <Modified>2015-06-26T12:22:53.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.min.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.min.css">
       <PackagePath>www\content\bootstrap\bootstrap.min.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.581</Modified>
+      <Modified>2015-06-26T12:22:53.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\loading-bar.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\loading-bar.css">
       <PackagePath>www\content\loading-bar.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.582</Modified>
+      <Modified>2015-06-26T12:22:53.757</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\site.css">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\site.css">
       <PackagePath>www\content\site.css</PackagePath>
-      <Modified>2015-06-12T04:32:42.583</Modified>
+      <Modified>2015-06-26T12:22:53.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.css.map">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap-theme.css.map">
       <PackagePath>www\content\bootstrap\bootstrap-theme.css.map</PackagePath>
-      <Modified>2015-06-12T04:32:42.466</Modified>
+      <Modified>2015-06-26T12:22:53.498</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.css.map">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\bootstrap\bootstrap.css.map">
       <PackagePath>www\content\bootstrap\bootstrap.css.map</PackagePath>
-      <Modified>2015-06-12T04:32:42.472</Modified>
+      <Modified>2015-06-26T12:22:53.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.eot">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.eot">
       <PackagePath>www\content\fonts\glyphicons-halflings-regular.eot</PackagePath>
-      <Modified>2015-06-12T04:32:42.475</Modified>
+      <Modified>2015-06-26T12:22:53.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.svg">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.svg">
       <PackagePath>www\content\fonts\glyphicons-halflings-regular.svg</PackagePath>
-      <Modified>2015-06-12T04:32:42.477</Modified>
+      <Modified>2015-06-26T12:22:53.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.ttf">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.ttf">
       <PackagePath>www\content\fonts\glyphicons-halflings-regular.ttf</PackagePath>
-      <Modified>2015-06-12T04:32:42.479</Modified>
+      <Modified>2015-06-26T12:22:53.512</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.woff">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\content\fonts\glyphicons-halflings-regular.woff">
       <PackagePath>www\content\fonts\glyphicons-halflings-regular.woff</PackagePath>
-      <Modified>2015-06-12T04:32:42.480</Modified>
+      <Modified>2015-06-26T12:22:53.514</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2015-06-26T12:22:53.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2015-06-26T12:22:53.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova.js">
       <PackagePath>www\cordova.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.530</Modified>
+      <Modified>2015-06-26T12:22:53.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova_plugins.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\cordova_plugins.js">
       <PackagePath>www\cordova_plugins.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.584</Modified>
+      <Modified>2015-06-26T12:22:53.761</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\module\home\homeController.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\module\home\homeController.js">
       <PackagePath>www\module\home\homeController.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.491</Modified>
+      <Modified>2015-06-26T12:22:53.524</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\app.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\app.js">
       <PackagePath>www\scripts\app.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.585</Modified>
+      <Modified>2015-06-26T12:22:53.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\cordovaController.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\cordovaController.js">
       <PackagePath>www\scripts\cordovaController.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.498</Modified>
+      <Modified>2015-06-26T12:22:53.531</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\factory.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\factory.js">
       <PackagePath>www\scripts\factory.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.586</Modified>
+      <Modified>2015-06-26T12:22:53.763</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\httpProvide.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\httpProvide.js">
       <PackagePath>www\scripts\httpProvide.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.587</Modified>
+      <Modified>2015-06-26T12:22:53.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\angular-route.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\angular-route.js">
       <PackagePath>www\scripts\libs\angular-route.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.588</Modified>
+      <Modified>2015-06-26T12:22:53.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\angular1-3-15.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\angular1-3-15.js">
       <PackagePath>www\scripts\libs\angular1-3-15.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.612</Modified>
+      <Modified>2015-06-26T12:22:53.780</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\ui-bootstrap-tpls-0.13.0.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\libs\ui-bootstrap-tpls-0.13.0.js">
       <PackagePath>www\scripts\libs\ui-bootstrap-tpls-0.13.0.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.615</Modified>
+      <Modified>2015-06-26T12:22:53.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\platformOverrides.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\ng-cordova.js">
+      <PackagePath>www\scripts\ng-cordova.js</PackagePath>
+      <Modified>2015-06-26T12:22:53.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\platformOverrides.js">
       <PackagePath>www\scripts\platformOverrides.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.526</Modified>
+      <Modified>2015-06-26T12:22:53.558</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\routes.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\routes.js">
       <PackagePath>www\scripts\routes.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.616</Modified>
+      <Modified>2015-06-26T12:22:53.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\run.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\run.js">
       <PackagePath>www\scripts\run.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.616</Modified>
+      <Modified>2015-06-26T12:22:53.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\winstore-jscompat.js">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\scripts\winstore-jscompat.js">
       <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
-      <Modified>2015-06-12T04:32:42.528</Modified>
+      <Modified>2015-06-26T12:22:53.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\index.html">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\index.html">
       <PackagePath>www\index.html</PackagePath>
-      <Modified>2015-06-12T04:32:42.485</Modified>
+      <Modified>2015-06-26T12:22:53.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\module\home\view\homeIndex.html">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\www\module\home\view\homeIndex.html">
       <PackagePath>www\module\home\view\homeIndex.html</PackagePath>
-      <Modified>2015-06-12T04:32:42.493</Modified>
+      <Modified>2015-06-26T12:22:53.526</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\config.xml">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\config.xml">
       <PackagePath>config.xml</PackagePath>
-      <Modified>2015-06-12T04:32:43.588</Modified>
+      <Modified>2015-06-26T12:22:54.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\simsek21\Documents\Visual Studio 2015\Projects\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\debug\anycpu\resources.pri">
+    <AppxPackagedFile Include="C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\windows\build\windows\debug\anycpu\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-06-12T04:32:43.805</Modified>
+      <Modified>2015-06-26T12:22:55.115</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
