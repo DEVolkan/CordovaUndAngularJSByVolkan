@@ -3,4 +3,8 @@
 <div ng-repeat="item in testIntegers">{{item}}</div>
 <input type="button" value="Execute SQL transactions" ng-click="ausfuehren()">
 <div ng-repeat="item in testDieZweite">{{item}}</div>
-{{testDieZweite}}
+<!--ng-bind="item"-->
+<span ng-repeat="item in output" >
+    {{item}}
+    <br />
+</span>
