@@ -6,4 +6,10 @@
   <PropertyGroup>
     <ReferenceCachePath>C:\Users\simsek21\AppData\Local\Temp\CordovaUndAngularJS_refcache</ReferenceCachePath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|iOS'">
+    <DebuggerFlavor>RippleiPhone5</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
+    <DebuggerFlavor>AndroidDevice</DebuggerFlavor>
+  </PropertyGroup>
 </Project>

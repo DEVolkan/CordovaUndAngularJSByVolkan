@@ -27,5 +27,4 @@
     <preference name="ShowTitle" value="False" />
     <preference name="InAppBrowserStorageEnabled" value="True" />
     <preference name="SuppressesIncrementalRendering" value="False" />
-    <vs:plugin name="io.litehelpers.cordova.sqlite" version="0.7.10-dev" />
 </widget>

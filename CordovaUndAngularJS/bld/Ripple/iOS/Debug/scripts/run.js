@@ -11,7 +11,6 @@
                         // Verarbeiten der Cordova-Pause- und -Fortsetzenereignisse
                         document.addEventListener('pause', onPause.bind(this), false);
                         document.addEventListener('resume', onResume.bind(this), false);
-                        
 
                         // TODO: Cordova wurde geladen. F�hren Sie hier eine Initialisierung aus, die Cordova erfordert.
                     };
