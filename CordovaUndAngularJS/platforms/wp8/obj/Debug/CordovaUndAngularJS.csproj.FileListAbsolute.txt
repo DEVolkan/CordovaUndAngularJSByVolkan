@@ -1,0 +1,14 @@
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\Background.png
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6.dll
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6.pdb
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6.g.resources
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6.dll
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\io.cordova.myapp8f674dc4e5124d659b33cfd51ff46ef6.pdb
+C:\Users\simsek21\Documents\GitHub\CordovaUndAngularJSByVolkan\CordovaUndAngularJS\platforms\wp8\obj\Debug\XapCacheFile.xml
