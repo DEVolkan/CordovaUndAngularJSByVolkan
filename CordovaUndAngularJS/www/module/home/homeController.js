@@ -14,7 +14,7 @@
         $scope.aufgabe2 = "Unterlagen abgeben";
         $scope.area1 = "DHL";
         $scope.area2 = "Mich betreffend"
-        $scope.githubprof = "false?";
+        $scope.githubprof = "true";
         var db = null;
 
 
