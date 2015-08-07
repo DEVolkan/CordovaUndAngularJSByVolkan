@@ -14,14 +14,13 @@
         $scope.aufgabe2 = "Unterlagen abgeben";
         $scope.area1 = "DHL";
         $scope.area2 = "Mich betreffend"
-        $scope.githubprof = "true";
         var db = null;
 
 
-        function createDB() {
-            var db = window.openDatabase("Database", "1.0", "TestDatabase", 200000);
-            db.transaction(executeQuery, errorCB, successCB);
-        };
+        //function createDB() {
+        //    var db = window.openDatabase("Database", "1.0", "TestDatabase", 200000);
+        //    db.transaction(executeQuery, errorCB, successCB);
+        //};
         //function createDB() {
         //    var dbSize = 5 * 1024 * 1024; // 5mb initial database   
         //    var db = window.openDatabase("Test Table", "", "TestTable", dbSize,
@@ -33,8 +32,9 @@
         //    }
         //    );
         //    db.transaction(executeQuery, errorCB, successCB);
-        //};
-        $scope.ausfuehren = createDB;
+        //};                          
+        //$scope.ausfuehren = createDB;
+        $scope.ausfuehren = service.createDataBase();
 
         function executeQuery(tx) {
             //tx.executeSql('DROP TABLE IF EXISTS TestTable');

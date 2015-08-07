@@ -4,6 +4,10 @@
     <DebuggerFlavor>WindowsLocal</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferenceCachePath>C:\Users\simsek21\AppData\Local\Temp\CordovaUndAngularJS_refcache</ReferenceCachePath>
+    <ReferenceCachePath>C:\Users\Volkan\AppData\Local\Temp\CordovaUndAngularJS_refcache</ReferenceCachePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
+    <DebuggerFlavor>RippleNexus</DebuggerFlavor>
+    <AndroidEmulatorID>AndroidDevice;Device</AndroidEmulatorID>
   </PropertyGroup>
 </Project>
