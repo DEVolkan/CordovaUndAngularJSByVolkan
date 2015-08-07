@@ -12,7 +12,7 @@
 
                 service.initializationDataBase = function () {
                     var db = window.openDatabase("Database", "1.0", "TestDatabase", 200000);
-                    db.transaction(executeQuery, errorCB, successCB);
+                    db.transaction(createDataBase, errorConnectionBinding, successConnectionBinding);
                 }
 
                 service.createDataBase = function () {
@@ -36,7 +36,28 @@
                     return 12;
                 }
 
-                
+                function errorConnectionBinding(err) {
+                    console.log("Error occured while executing SQL: " + err.code);
+                };
+
+                function successConnectionBinding() {
+                    var db = null;
+                    var db = window.openDatabase("Database", "1.0", "TestDatabase", 200000);
+                    db.transaction(queryDB, errorCB);
+                };
+
+                function queryDB(tx) {
+                    tx.executeSql('SELECT * FROM TestTable', [], querySuccess, errorConnectionBinding);
+                };
+
+                function querySuccess(tx, results) {
+                    var length = results.rows.length;
+                    var result = [];
+                    for (var i = 0; i < length; i++) {
+                        result.push(results.rows[i]);
+                    };
+                    service.allTask = result;
+                };
 
                 return service;
             });
