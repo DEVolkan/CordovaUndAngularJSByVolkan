@@ -197,3 +197,4 @@ FakesAssemblies/
 
 /CordovaUndAngularJS/nbproject/private/
 /websql/nbproject/private/
+*.properties
