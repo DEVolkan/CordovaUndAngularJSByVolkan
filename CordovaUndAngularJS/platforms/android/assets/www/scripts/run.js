@@ -1,7 +1,7 @@
 
 (function (angular) {
     angular.module('app')
-            .run(["$location", "service", "$cordovaSQLite",  function ($location, service, $cordovaSQLite, $scope) {
+            .run(["$location", "service", "$cordovaSQLite",  function ($location, $cordovaSQLite, $scope) {
                 function cordova() {
                     "use strict";
 
@@ -11,6 +11,7 @@
                         // Verarbeiten der Cordova-Pause- und -Fortsetzenereignisse
                         document.addEventListener('pause', onPause.bind(this), false);
                         document.addEventListener('resume', onResume.bind(this), false);
+                        //service.initializationDataBase();
 
                         // TODO: Cordova wurde geladen. F�hren Sie hier eine Initialisierung aus, die Cordova erfordert.
                     };
