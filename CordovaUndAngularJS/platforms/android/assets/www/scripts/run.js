@@ -1,7 +1,7 @@
 
 (function (angular) {
     angular.module('app')
-            .run(["$location", "service", "$cordovaSQLite",  function ($location, $cordovaSQLite, $scope) {
+            .run(["$location", "$cordovaSQLite", "service", function ($location, $cordovaSQLite, service) {
                 function cordova() {
                     "use strict";
 

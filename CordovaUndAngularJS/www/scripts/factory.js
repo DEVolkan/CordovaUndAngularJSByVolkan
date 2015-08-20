@@ -1,25 +1,25 @@
 (function(angular) {
     angular.module('app')
-            .factory('service', function ($http, $q, $filter, $cordovaSQLite, $scope, $service) {
+            .factory('service', function ($http, $q, $filter, $cordovaSQLite, $scope) {
                 var service = {
                     loadData: loadData
                 };
                 
                 function loadData() {
-                    $service.getTestIntegers = [1, 2, 3, 4, 5];
-                    return $service.getTestIntegers;
+                    service.getTestIntegers = [1, 2, 3, 4, 5];
+                    return service.getTestIntegers;
                 }; 
 
-                $service.initializationDataBase = function () {
+                service.initializationDataBase = function () {
                     var db = window.openDatabase("Database", "1.0", "TestDatabase", 200000);
                     db.transaction(createDataBase, errorConnectionBinding, successConnectionBinding);
                 }
 
-                $service.createDataBase = function () {
+                service.createDataBase = function () {
                     tx.executeSql('CREATE TABLE IF NOT EXISTS TestTable (guid unique, createdDate, task, area, underArea, importance, difficult)');
                 }
 
-                $service.insertDataInDB = function (task, area, underArea, importance, difficult) {
+                service.insertDataInDB = function (task, area, underArea, importance, difficult) {
                     var guid = guid();
                     var createdDate = Date.now();
                     tx.executeSql('INSERT INTO TestTable (guid, createdDate, task, area, underArea, importance, difficult) VALUES ("'
@@ -57,7 +57,7 @@
                     for (var i = 0; i < length; i++) {
                         result.push(results.rows[i]);
                     };
-                    $service.allTask = result;
+                    service.allTask = result;
                 };
 
                 return service;
